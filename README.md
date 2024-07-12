@@ -1,4 +1,8 @@
 ## Hi there 👋
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXVpbTF4MHN1bHA2cnhjY2h0OW9jYnd2bm9xOW9vdm80ZnNoNmt2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif
+)
+
+
 
 <!--
 **rblondiau/rblondiau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
